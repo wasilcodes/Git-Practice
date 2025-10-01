@@ -6,3 +6,4 @@ This line is from master branch
 This line is from feature-1 branch
 
 This is uncommitted change for stash
+This line is from feature-remote branch
