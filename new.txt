@@ -1,1 +1,2 @@
-New file line 2
+BUG HERE
+BUG HERE
