@@ -13,3 +13,4 @@ Line A from feature-cherry branch
 Line B from feature-cherry branch
 Line C from feature-cherry branch
 
+New base line on master
