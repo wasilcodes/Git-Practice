@@ -6,9 +6,9 @@ This line is from master branch
 This line is from feature-1 branch
 
 This is uncommitted change for stash
-<<<<<<< HEAD
 New line from master branch
-=======
 This line is from feature-remote branch
->>>>>>> 3f145e01bc3aefd426ab4499ad5cb969bfeb2b5c
 Line from cherry pick branch
+Line A from feature-cherry branch
+Line B from feature-cherry branch
+
