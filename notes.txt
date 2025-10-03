@@ -10,5 +10,4 @@ New line from master branch
 This line is from feature-remote branch
 Line from cherry pick branch
 Line A from feature-cherry branch
-Line B from feature-cherry branch
-
+Line B from feature-cherry branchThis is a Base file
